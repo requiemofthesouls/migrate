@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/pressly/goose v2.7.0+incompatible
 	github.com/requiemofthesouls/container v0.0.1
-	github.com/requiemofthesouls/postgres v0.0.1
+	github.com/requiemofthesouls/postgres v0.0.2
 )
 
 require (
